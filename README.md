@@ -18,8 +18,6 @@ I enjoy solving real-life problems through code and contributing to open-source 
 |   |   | ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) |
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrachiKumari04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrachiKumari04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiKumari04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## GitHub Trophies:
