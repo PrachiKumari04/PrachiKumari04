@@ -1,13 +1,13 @@
-# About Me:
+# 💫 About Me:
 I'm Prachi, a web developer with a strong focus on building practical, user-centric applications.  
 I'm currently pursuing my BCA and passionate about expanding my skills in Full Stack Web Development.  
 Along with development, I'm deeply interested in UI/UX design, aiming to create intuitive and engaging user experiences.  
 I enjoy solving real-life problems through code and contributing to open-source projects.
 
 ## 🌐 Socials:
-| [LinkedIn](https://www.linkedin.com/in/prachi-kumari-6b100125a/) | [Pinterest](https://pinterest.com/starshadow2808) 
-|------------------------------------------------------------------|----------------------------------------------------|----------------------------------|
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) | ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) | ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) |
+| [LinkedIn](https://www.linkedin.com/in/prachi-kumari-6b100125a/) | [Pinterest](https://pinterest.com/starshadow2808) |
+|------------------------------------------------------------------|----------------------------------------------------|
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) | ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) |
 
 # 💻 Tech Stack:
 | Frontend            | Backend          | Tools & Others     |
