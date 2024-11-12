@@ -25,9 +25,5 @@ I enjoy solving real-life problems through code and contributing to open-source 
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=PrachiKumari04&theme=shadow_red&no-frame=true&no-bg=false&margin-w=4)
 
-## Socials:
-[LinkedIn](https://www.linkedin.com/in/prachi-kumari-6b100125a/)  
-
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
 
 [![](https://visitcount.itsvg.in/api?id=PrachiKumari04&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
