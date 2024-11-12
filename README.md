@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Prachi, a web developer with a strong focus on building practical, user-centric applications.  
 I'm currently pursuing my BCA and passionate about expanding my skills in Full Stack Web Development.  
 Along with development, I'm deeply interested in UI/UX design, aiming to create intuitive and engaging user experiences.  
