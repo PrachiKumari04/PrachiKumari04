@@ -22,6 +22,6 @@ I'm Prachi, a web developer with a strong focus on building practical, user-cent
 ![](https://github-contributor-stats.vercel.app/api?username=PrachiKumari04&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrachiKumari04&icon=6&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=PrachiKumari04&label=Profile%20Views&color=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
