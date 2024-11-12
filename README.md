@@ -1,16 +1,15 @@
-# 💫 About Me:
+# About Me:
 I'm Prachi, a web developer with a strong focus on building practical, user-centric applications.  
 I'm currently pursuing my BCA and passionate about expanding my skills in Full Stack Web Development.  
 Along with development, I'm deeply interested in UI/UX design, aiming to create intuitive and engaging user experiences.  
 I enjoy solving real-life problems through code and contributing to open-source projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-kumari-6b100125a/)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/starshadow2808)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrachiKumari04)  
+| [LinkedIn](https://www.linkedin.com/in/prachi-kumari-6b100125a/) | [Pinterest](https://pinterest.com/starshadow2808) | [X](https://x.com/PrachiKumari04) |
+|------------------------------------------------------------------|----------------------------------------------------|----------------------------------|
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) | ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) | ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) |
 
 # 💻 Tech Stack:
-
 | Frontend            | Backend          | Tools & Others     |
 |---------------------|------------------|--------------------|
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
