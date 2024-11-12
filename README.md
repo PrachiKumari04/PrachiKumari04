@@ -5,7 +5,7 @@ Along with development, I'm deeply interested in UI/UX design, aiming to create 
 I enjoy solving real-life problems through code and contributing to open-source projects.
 
 ## 🌐 Socials:
-| [LinkedIn](https://www.linkedin.com/in/prachi-kumari-6b100125a/) | [Pinterest](https://pinterest.com/starshadow2808) | [X](https://x.com/PrachiKumari04) |
+| [LinkedIn](https://www.linkedin.com/in/prachi-kumari-6b100125a/) | [Pinterest](https://pinterest.com/starshadow2808) 
 |------------------------------------------------------------------|----------------------------------------------------|----------------------------------|
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) | ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) | ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) |
 
