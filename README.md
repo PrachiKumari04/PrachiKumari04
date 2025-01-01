@@ -20,8 +20,6 @@ I enjoy solving real-life problems through code and contributing to open-source 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiKumari04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=PrachiKumari04&theme=shadow_red&no-frame=true&no-bg=false&margin-w=4)
 
 
 [![](https://visitcount.itsvg.in/api?id=PrachiKumari04&label=Profile%20Views&color=4&pretty=false)](https://visitcount.itsvg.in)
