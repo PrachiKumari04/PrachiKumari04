@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creatin
 ### 🌟 Frontend  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### ⚙️ Backend  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -52,10 +52,18 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creatin
 ---
 
 ## 📬 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PrachiKumari)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23e84545.svg?style=for-the-badge&logo=web&logoColor=white)](https://PrachiKumariPortfolio.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrachiKumari04)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PrachiTweets)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prachi-kumari-a56744341/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kumariprachi.carrd.co/">
+    <img src="https://img.shields.io/badge/Portfolio-%23e84545.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/PrachiKumari04">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
