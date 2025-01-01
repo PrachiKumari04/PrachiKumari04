@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creatin
 
 ## 🚀 About Me  
 - 🔭 **Currently Working On**: Enhancing my skills in **Frontend Development** and **UI/UX Design**.  
-- 🌱 **Learning Goals**: Building scalable full-stack applications & contributing to open source.  
-- 🎨 **Hobbies**: Designing on Figma, brainstorming app ideas, and reading tech blogs.  
+- 🌱 **Learning Goals**: Building scalable full-stack applications & contributing to open source and improving my figma skills.  
+- 🎨 **Hobbies**: Designing and playing football.  
 - 👯 **Open to Collaborate**: If you have exciting projects, let's connect!  
 
 ---
