@@ -46,10 +46,6 @@ Welcome to my GitHub profile! I'm a **Web Developer & UI/UX enthusiast** passion
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiKumari04&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrachiKumari04&theme=radical&hide_border=false" />
-    </td>
-  </tr>
 </table>
 
 ---
