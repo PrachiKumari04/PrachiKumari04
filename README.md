@@ -1,14 +1,14 @@
 # 👋 Hey there! I'm Prachi 👩‍💻
 
 Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creating user-friendly applications and intuitive designs.  
-🌟 I'm currently pursuing my **BCA in Applied Data Science** at MITADT University and expanding my expertise in **Full Stack Web Development**.  
-💡 I love solving real-world problems through code and crafting engaging **UI/UX experiences**.  
+🌟 I'm currently pursuing my **BCA in Applied Data Science** at MITADT University and expanding my expertise in **Full Stack Web Development** and **UI/UX Design**.  
+💡 I love solving real-world problems through code and crafting engaging **UI/UX experiences**.  I'm actively working on improving my UI/UX design skills and applying them to my projects.
 
 ---
 
 ## 🚀 About Me  
-- 🔭 **Currently Working On**: Enhancing my skills in **Frontend Development** and **UI/UX Design**.  
-- 🌱 **Learning Goals**: Building scalable full-stack applications & contributing to open source and improving my figma skills.  
+- 🔭 **Currently Working On**: Enhancing my skills in **Frontend Development**, **UI/UX Design**, and exploring **Android Development**.  
+- 🌱 **Learning Goals**: Building scalable full-stack applications, contributing to open source, and mastering Figma for UI/UX design.
 - 🎨 **Hobbies**: Designing and playing football.  
 - 👯 **Open to Collaborate**: If you have exciting projects, let's connect!  
 
@@ -27,6 +27,9 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creatin
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📱 Mobile Development
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🧰 Tools  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -69,4 +72,4 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creatin
 ---
 
 😄 **Fun Fact**:  
-I firmly believe that a well-designed user interface is like a great joke: **if you have to explain it, it’s not that good!** 😊  
+I firmly believe that a well-designed user interface is like a great joke: **if you have to explain it, it’s not that good!** 😊
