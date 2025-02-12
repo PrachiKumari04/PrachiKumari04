@@ -1,16 +1,15 @@
 # 👋 Hey there! I'm Prachi 👩‍💻
 
-Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creating user-friendly applications and intuitive designs.  
-🌟 I'm currently pursuing my **BCA in Applied Data Science** at MITADT University and expanding my expertise in **Full Stack Web Development** and **UI/UX Design**.  
-💡 I love solving real-world problems through code and crafting engaging **UI/UX experiences**.  I'm actively working on improving my UI/UX design skills and applying them to my projects.
+Welcome to my GitHub profile! I'm a **Web Developer & UI/UX enthusiast** passionate about crafting intuitive and engaging digital experiences.  I love turning ideas into reality, whether it's through clean code or thoughtful design.
+🌟 I'm currently pursuing my **BCA in Applied Data Science** at MITADT University, where I'm honing my skills in **Full Stack Web Development** and diving deep into the world of **UI/UX Design**.  I'm actively learning and applying UI/UX principles to all my projects.
 
 ---
 
 ## 🚀 About Me  
-- 🔭 **Currently Working On**: Enhancing my skills in **Frontend Development**, **UI/UX Design**, and exploring **Android Development**.  
-- 🌱 **Learning Goals**: Building scalable full-stack applications, contributing to open source, and mastering Figma for UI/UX design.
-- 🎨 **Hobbies**: Designing and playing football.  
-- 👯 **Open to Collaborate**: If you have exciting projects, let's connect!  
+- 🔭 **Currently Exploring**:  The exciting intersection of **Frontend Development**, **UI/UX Design**, and **Android Development**.  I'm building my toolkit for creating seamless experiences across platforms.
+- 🌱 **Learning Goals**: Building scalable full-stack applications, contributing to open source, and becoming a Figma wizard!  I'm always eager to learn new technologies and refine my design skills.
+- 🎨 **Hobbies**: Designing (digital and otherwise!), playing football, and exploring new music.  I believe creativity fuels innovation.
+- 👯 **Open to Collaborate**: Absolutely! If you have a project that needs a blend of code and design, let's connect!  I'm always looking for opportunities to collaborate and learn from others.
 
 ---
 
@@ -31,7 +30,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creatin
 ### 📱 Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 🧰 Tools  
+### 🧰 Design & Tools  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
@@ -72,4 +71,4 @@ Welcome to my GitHub profile! I'm a **Web Developer** with a passion for creatin
 ---
 
 😄 **Fun Fact**:  
-I firmly believe that a well-designed user interface is like a great joke: **if you have to explain it, it’s not that good!** 😊
+I firmly believe that a well-designed user interface is like a great joke: **if you have to explain it, it’s not that good!** 😊  And a well-crafted line of code is pure poetry!
