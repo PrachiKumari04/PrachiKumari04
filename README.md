@@ -1,39 +1,33 @@
 # 👋 Hey there! I'm Prachi 👩‍💻
 
-Welcome to my digital space! I'm a **Web Developer & UI/UX Designer** passionate about crafting intuitive and engaging digital experiences. I love turning complex problems into seamless designs and clean, functional code.
+Welcome to my digital space! I am an **MCA student at MIT ADT** specializing in the intersection of **Product Management, UI/UX, and Development**. 
 
-🌟 Currently pursuing my **MCA in Applied Data Science** at **MIT ADT University**, I’m honing my skills in **Full Stack Development** while balancing my creative side through **Freelance Graphic Design**.
+As a self-taught designer and active freelancer, I bridge the gap between complex code and intuitive user experiences. My technical foundation allows me to design with a deep understanding of how products are actually built.
 
 ---
 
-## 🚀 About Me  
-- 🔭 **Currently Exploring**: The exciting intersection of **Frontend Development**, **UI/UX Design**, and **Android Development**. 
-- 🌱 **Learning Goals**: Building scalable full-stack applications, mastering advanced Figma workflows, and exploring AI-driven predictive safety in healthcare (Project VAIDYA-SETU).
-- 🎨 **Creative Side**: When I'm not coding, you'll find me designing for brands, playing football, or exploring new music.
-- 👯 **Open to Collaborate**: Absolutely! If you have a project that needs a blend of logic and aesthetics, let's connect!
+## 🚀 What I Do  
+- 💡 **Product Strategy**: Thinking like a PM to solve real-world problems.
+- 🎨 **UI/UX & Graphic Design**: Creating high-impact visual identities and interfaces.
+- ⚙️ **Technical Execution**: Leveraging my MCA background to lead and build tech-driven projects.
+- 🌱 **Learning Goals**: Mastering scalable full-stack applications and becoming a Figma wizard!
 
 ---
 
 ## 🛠️ My Tech Stack  
 
-### 🌟 Frontend & Design
+### 🌟 Design & Strategy
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Product Management](https://img.shields.io/badge/Product%20Management-%23000000.svg?style=for-the-badge&logo=producthunt&logoColor=white)
+
+### 💻 Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-### ⚙️ Backend & Mobile
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🧰 Tools & Others
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 
 ---
 
