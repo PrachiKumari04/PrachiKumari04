@@ -31,16 +31,8 @@ As a self-taught designer and active freelancer, I bridge the gap between comple
 
 ---
 
-## 📊 GitHub Stats  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiKumari04&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
 
----
+
 
 ## 📬 Let's Connect  
 
